@@ -1,0 +1,40 @@
+.container {
+    display: flex;
+    margin-top: 10px;
+}
+
+.featuredTitle {
+    font-size: 20px;
+    color: #1c7cc4;
+}
+
+.featuredMoneyContainer {
+    margin: 10px 0px;
+    display: flex;
+    align-items: center;
+}
+
+.featuredMoney {
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.featuredMoneyRate {
+    display: flex;
+    align-items: center;
+    margin-left: 20px ;
+}
+.featuredIcon{
+    font-size: 14px;
+    margin-left: 5px;
+    color: lightseagreen;
+}
+
+.featuredIcon.negative{
+    color: darkred;
+}
+
+.featuredSub{
+    font-size: 15px;
+    color: darkgray;
+}
