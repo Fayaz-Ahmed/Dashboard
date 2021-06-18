@@ -1,11 +1,6 @@
 .header {
     width: 100%;
     height: 80px;
-    /*background: radial-gradient(#efede1, #c6af1e);*/
-    /*background: #267cd4;*/
-    /*background: rgb(19, 144, 182);*/
-    /*background: #2e3f47;*/
-    /*background: palevioletred;*/
     background: #39447a;
     position: sticky;
     top: 0px;

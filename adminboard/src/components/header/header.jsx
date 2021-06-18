@@ -183,15 +183,7 @@ function Header() {
                             <NotificationsIcon/>
                         </Badge>
                     </IconButton>
-                    {/*<div className="headerIcons" >*/}
-                    {/*    <NotificationsActive/>*/}
-                    {/*    <span className="headIconBadge">*/}
-                    {/*         2*/}
-                    {/*    </span>*/}
-                    {/*</div>*/}
-                    {/*<div className="headerIcons">*/}
-                    {/*    <Language/>*/}
-                    {/*</div>*/}
+              
                     <IconButton
                         edge="end"
                         aria-label="account of current user"
