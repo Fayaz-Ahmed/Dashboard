@@ -17,29 +17,29 @@ function WidgetLarge() {
                 </tr>
                 <tr className="widgetLargeTr">
                     <td className="widgetLargeUser">
-                        <img src="../assets/images/image.jpg" alt="" className="widgetLargeImg"/>
-                        <span className="widgetLargeUsername">Nutra Thawed</span>
+                        <img src="../assets/images/hello.svg" alt="" className="widgetLargeImg"/>
+                        <span className="widgetLargeUsername">Ronaldo</span>
                     </td>
                     <td className="widgetLargeDate">21/06/2021</td>
-                    <td className="widgetLargeAmount">$122.00</td>
+                    <td className="widgetLargeAmount">$120.00</td>
                     <td className="widgetLargeStatus"><Button type="Approved"/></td>
                 </tr>
                 <tr className="widgetLargeTr">
                     <td className="widgetLargeUser">
-                        <img src="../assets/images/image.jpg" alt="" className="widgetLargeImg"/>
-                        <span className="widgetLargeUsername">Nutra Thawed</span>
+                        <img src="../assets/images/hello.svg" alt="" className="widgetLargeImg"/>
+                        <span className="widgetLargeUsername">Messi</span>
                     </td>
                     <td className="widgetLargeDate">21/06/2021</td>
-                    <td className="widgetLargeAmount">$122.00</td>
+                    <td className="widgetLargeAmount">$178.00</td>
                     <td className="widgetLargeStatus"><Button type="Declined"/></td>
                 </tr>
                 <tr className="widgetLargeTr">
                     <td className="widgetLargeUser">
-                        <img src="../assets/images/image.jpg" alt="" className="widgetLargeImg"/>
-                        <span className="widgetLargeUsername">Nutra Thawed</span>
+                        <img src="../assets/images/hello.svg" alt="" className="widgetLargeImg"/>
+                        <span className="widgetLargeUsername">Ramos</span>
                     </td>
-                    <td className="widgetLargeDate">21/06/2021</td>
-                    <td className="widgetLargeAmount">$122.00</td>
+                    <td className="widgetLargeDate">20/06/2021</td>
+                    <td className="widgetLargeAmount">$130.00</td>
                     <td className="widgetLargeStatus"><Button type="Pending"/></td>
                 </tr>
             </table>

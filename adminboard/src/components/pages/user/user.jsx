@@ -26,19 +26,19 @@ function User() {
                     <div className="userShowTop">
                         <img src="../assets/images/hello.svg" alt="" className="userShowImg"/>
                         <div className="userShowTopTitle">
-                            <span className="userShowUsername">Anna Bell</span>
-                            <span className="userShowUserJob">Software Engineer</span>
+                            <span className="userShowUsername">Fayaz Ahmed</span>
+                            <span className="userShowUserJob">Undergraduate</span>
                         </div>
                     </div>
                     <div className="userShowBottom">
                         <span className="userShowTitle">Profile Details</span>
                         <div className="userShowInfo">
                             <PermIdentity className="userShowIcon"/>
-                            <span className="userShowInfoTitle">anna78</span>
+                            <span className="userShowInfoTitle">FA_TECH98</span>
                         </div>
                         <div className="userShowInfo">
                             <CalendarToday className="userShowIcon"/>
-                            <span className="userShowInfoTitle">10.10.1998</span>
+                            <span className="userShowInfoTitle">10.01.1998</span>
                         </div>
                         <span className="userShowTitle">Contact Details</span>
                         <div className="userShowInfo">
@@ -47,11 +47,11 @@ function User() {
                         </div>
                         <div className="userShowInfo">
                             <MailSharp className="userShowIcon"/>
-                            <span className="userShowInfoTitle">anna@gmail.com</span>
+                            <span className="userShowInfoTitle">fayaz861818@gmail.com</span>
                         </div>
                         <div className="userShowInfo">
                             <LocationCitySharp className="userShowIcon"/>
-                            <span className="userShowInfoTitle">New York | USA</span>
+                            <span className="userShowInfoTitle">Galle | Sri Lanka</span>
                         </div>
                     </div>
                 </div>
@@ -61,15 +61,15 @@ function User() {
                         <div className="userUpdateLeft">
                             <div className="userUpdatedItem">
                                 <label>Username</label>
-                                <input type="text" placeholder="anna78" className="userUpdateInput"/>
+                                <input type="text" placeholder="FA_TECH98" className="userUpdateInput"/>
                             </div>
                             <div className="userUpdatedItem">
                                 <label>Full Name</label>
-                                <input type="text" placeholder="Anna Becker" className="userUpdateInput"/>
+                                <input type="text" placeholder="Fayaz Ahmed" className="userUpdateInput"/>
                             </div>
                             <div className="userUpdatedItem">
                                 <label>E-Mail</label>
-                                <input type="text" placeholder="anna@gmail.com" className="userUpdateInput"/>
+                                <input type="text" placeholder="fayaz861818@gmail.com" className="userUpdateInput"/>
                             </div>
                             <div className="userUpdatedItem">
                                 <label>Phone Number</label>
@@ -77,7 +77,7 @@ function User() {
                             </div>
                             <div className="userUpdatedItem">
                                 <label>Address</label>
-                                <input type="text" placeholder="New York | USA" className="userUpdateInput"/>
+                                <input type="text" placeholder="Galle | Sri Lanka" className="userUpdateInput"/>
                             </div>
                         </div>
                         <div className="userUpdateRight">

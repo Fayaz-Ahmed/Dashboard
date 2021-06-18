@@ -27,8 +27,8 @@ const Chart2 = () => {
             <div className="charts__left">
                 <div className="charts__left__title">
                     <div>
-                        <h1>Daily Reports</h1>
-                        <p>Cupertino, California, USA</p>
+                        <h1>Daily Report</h1>
+                        <p>EiTech1, Colombo, SL</p>
                     </div>
                     <i className="fa fa-usd" aria-hidden="true"></i>
                 </div>

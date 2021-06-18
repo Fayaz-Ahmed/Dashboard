@@ -13,7 +13,7 @@
     width: 80px;
     border: none;
     padding: 5px;
-    background-color: darkturquoise;
+    background-color: #3ea175;
     border-radius: 5px;
     cursor: pointer;
     font-size: 18px;
@@ -151,6 +151,6 @@
     border: none;
     padding: 5px;
     cursor: pointer;
-    background-color: cornflowerblue;
+    background-color: #3ea175;
     font-size: 20px;
 }

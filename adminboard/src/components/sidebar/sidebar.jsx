@@ -19,7 +19,6 @@ function Sidebar() {
         <div className="sidebar">
             <div className="sidebarWrapper">
                 <div className="sidebarMenu">
-                    {/*<h3 className="sidebarTitle">Dashboard</h3>*/}
                     <div className="sidebar__link active_menu_link">
                         <i className="fa fa-home"></i>
                         <a href="#">Dashboard</a>

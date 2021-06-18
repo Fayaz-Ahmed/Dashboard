@@ -9,18 +9,11 @@ import MenuIcon from '@material-ui/icons/Menu';
 import Typography from '@material-ui/core/Typography';
 
 const useStyles = makeStyles((theme) => ({
-    grow: {
-        flexGrow: 1,
-    },
+
     menuButton: {
         marginRight: theme.spacing(2),
     },
-    title: {
-        display: 'none',
-        [theme.breakpoints.up('sm')]: {
-            display: 'block',
-        },
-    },
+
     search: {
         position: 'relative',
         borderRadius: theme.shape.borderRadius,
@@ -160,8 +153,9 @@ function Header() {
             <div className="headerWrapper">
                 <div className="headLeft">
                     <div className="logo ">
-                        <h1><a href="index.html"><span className="log-w3pvt">E</span>iTech1</a> <label
-                            className="sub-des">Computer Software</label></h1>
+                        {/*<h1><a href="index.html"><span>E</span>iTech1</a> <label*/}
+                        {/*    className="sub-des">Computer Software</label></h1>*/}
+                        <img src="../assets/images/logo.jpg" width="125px" height="60px"/>
                     </div>
                 </div>
 
@@ -189,15 +183,7 @@ function Header() {
                             <NotificationsIcon/>
                         </Badge>
                     </IconButton>
-                    {/*<div className="headerIcons" >*/}
-                    {/*    <NotificationsActive/>*/}
-                    {/*    <span className="headIconBadge">*/}
-                    {/*         2*/}
-                    {/*    </span>*/}
-                    {/*</div>*/}
-                    {/*<div className="headerIcons">*/}
-                    {/*    <Language/>*/}
-                    {/*</div>*/}
+              
                     <IconButton
                         edge="end"
                         aria-label="account of current user"
