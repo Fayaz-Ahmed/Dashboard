@@ -48,5 +48,63 @@ export const userData = [
         "Active Customer": 4500,
     },
 
+];
 
+export const userRows = [
+    {
+        id: 1,
+        Username: 'jhon Snow',
+        avatar: "../assets/images/image.jpg",
+        email: "hokiut@gmial.com",
+        status: "active",
+        transaction: "$120.00"
+    },
+    {
+        id: 2,
+        Username: 'jhon Snow',
+        avatar: "../assets/images/image.jpg",
+        email: "hokiut@gmial.com",
+        status: "active",
+        transaction: "$120.00"
+    },
+    {
+        id: 3,
+        Username: 'jhon Snow',
+        avatar: "../assets/images/image.jpg",
+        email: "hokiut@gmial.com",
+        status: "active",
+        transaction: "$120.00"
+    },
+    {
+        id: 4,
+        Username: 'jhon Snow',
+        avatar: "../assets/images/image.jpg",
+        email: "hokiut@gmial.com",
+        status: "active",
+        transaction: "$120.00"
+    },
+    {
+        id: 5,
+        Username: 'jhon Snow',
+        avatar: "../assets/images/image.jpg",
+        email: "hokiut@gmial.com",
+        status: "active",
+        transaction: "$120.00"
+    },
+    {
+        id: 6,
+        Username: 'jhon Snow',
+        avatar: "../assets/images/image.jpg",
+        email: "hokiut@gmial.com",
+        status: "active",
+        transaction: "$120.00"
+    },
+    {
+        id: 7,
+        Username: 'jhon Snow',
+        avatar: "../assets/images/image.jpg",
+        email: "hokiut@gmial.com",
+        status: "active",
+        transaction: "$120.00"
+    }
 ];

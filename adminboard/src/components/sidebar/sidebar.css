@@ -1,14 +1,15 @@
 .sidebar {
     flex: 1;
     height: calc(100vh - 50px);
-    background-color: wheat;
+    background-color: rgb(16, 0, 0);
     position: sticky;
     top: 50px;
+    grid-area: sidebar;
 }
 
 .sidebarWrapper {
     padding: 20px;
-    color: #333333;
+    color: #a5aaad;
 }
 
 .sidebarMenu {
@@ -17,7 +18,7 @@
 
 .sidebarTitle {
     font-size: 30px;
-    color: darkred;
+    color: #3ea175;
 }
 
 .sidebarList {
@@ -41,4 +42,41 @@
 .sidebarIcon {
     margin-right: 5px;
     font-size: 20px !important;
+}
+
+.sidebar__menu > h2 {
+    color: #3ea175;
+    font-size: 16px;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    padding: 0 10px;
+    font-weight: 700;
+}
+
+.sidebar__link {
+    color: #f3f4f6;
+    padding: 10px;
+    border-radius: 3px;
+    margin-bottom: 5px;
+    font-size: 30px;
+}
+
+.active_menu_link {
+    background: rgba(62, 161, 117, 0.3);
+    color: #3ea175;
+}
+
+.active_menu_link a {
+    color: #3ea175 !important;
+}
+
+.sidebar__link > a {
+    text-decoration: none;
+    color: #a5aaad;
+    font-weight: 700;
+}
+
+.sidebar__link > i {
+    margin-right: 10px;
+    font-size: 30px;
 }
