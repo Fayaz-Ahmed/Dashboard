@@ -53,58 +53,145 @@ export const userData = [
 export const userRows = [
     {
         id: 1,
-        Username: 'jhon Snow',
+        Username: 'Fayaz Ahmed',
         avatar: "../assets/images/image.jpg",
-        email: "hokiut@gmial.com",
+        email: "fayaz861818@gmail.com",
         status: "active",
-        transaction: "$120.00"
+        transaction: "$120.00",
+        income: "$30"
     },
     {
         id: 2,
-        Username: 'jhon Snow',
-        avatar: "../assets/images/image.jpg",
+        Username: 'James Bashed',
+        avatar: "../assets/images/hello.svg",
         email: "hokiut@gmial.com",
         status: "active",
-        transaction: "$120.00"
+        transaction: "$100.00",
+        income: "$80"
     },
     {
         id: 3,
-        Username: 'jhon Snow',
-        avatar: "../assets/images/image.jpg",
+        Username: 'Marine',
+        avatar: "../assets/images/hello.svg",
         email: "hokiut@gmial.com",
         status: "active",
-        transaction: "$120.00"
+        transaction: "$1200.00",
+        income: "$300"
     },
     {
         id: 4,
-        Username: 'jhon Snow',
-        avatar: "../assets/images/image.jpg",
+        Username: 'Pitbull',
+        avatar: "../assets/images/hello.svg",
         email: "hokiut@gmial.com",
         status: "active",
-        transaction: "$120.00"
+        transaction: "$160.00",
+        income: "$20"
     },
     {
         id: 5,
-        Username: 'jhon Snow',
-        avatar: "../assets/images/image.jpg",
+        Username: 'Mancestor',
+        avatar: "../assets/images/hello.svg",
         email: "hokiut@gmial.com",
         status: "active",
-        transaction: "$120.00"
+        transaction: "$1234.00",
+        income: "$345"
     },
     {
         id: 6,
-        Username: 'jhon Snow',
-        avatar: "../assets/images/image.jpg",
+        Username: 'Lio Thomas',
+
         email: "hokiut@gmial.com",
         status: "active",
-        transaction: "$120.00"
+        transaction: "$1123.00",
+        income: "$33"
     },
     {
         id: 7,
-        Username: 'jhon Snow',
+        Username: 'Marting',
+        avatar: "../assets/images/hello.svg",
+        email: "hululi@gmial.com",
+        status: "active",
+        transaction: "$1134.00",
+        income: "$33"
+    },
+    {
+        id: 8,
+        Username: 'Marting King',
+        avatar: "../assets/images/hello.svg",
+        email: "james@gmial.com",
+        status: "active",
+        transaction: "$1000.00",
+        income: "$100"
+    }, {
+        id: 9,
+        Username: 'Fayaz Ahmed',
         avatar: "../assets/images/image.jpg",
+        email: "fayaz861818@gmail.com",
+        status: "active",
+        transaction: "$120.00",
+        income: "$30"
+    },
+    {
+        id: 10,
+        Username: 'James Bashed',
+        avatar: "../assets/images/hello.svg",
         email: "hokiut@gmial.com",
         status: "active",
-        transaction: "$120.00"
+        transaction: "$100.00",
+        income: "$80"
+    },
+    {
+        id: 11,
+        Username: 'Marine',
+        avatar: "../assets/images/hello.svg",
+        email: "hokiut@gmial.com",
+        status: "active",
+        transaction: "$1200.00",
+        income: "$300"
+    },
+    {
+        id: 12,
+        Username: 'Pitbull',
+        avatar: "../assets/images/hello.svg",
+        email: "hokiut@gmial.com",
+        status: "active",
+        transaction: "$160.00",
+        income: "$20"
+    },
+    {
+        id: 13,
+        Username: 'Mancestor',
+        avatar: "../assets/images/hello.svg",
+        email: "hokiut@gmial.com",
+        status: "active",
+        transaction: "$1234.00",
+        income: "$345"
+    },
+    {
+        id: 14,
+        Username: 'Lio Thomas',
+
+        email: "hokiut@gmial.com",
+        status: "active",
+        transaction: "$1123.00",
+        income: "$33"
+    },
+    {
+        id: 15,
+        Username: 'Marting',
+        avatar: "../assets/images/hello.svg",
+        email: "hululi@gmial.com",
+        status: "active",
+        transaction: "$1134.00",
+        income: "$33"
+    },
+    {
+        id: 16,
+        Username: 'Marting King',
+        avatar: "../assets/images/hello.svg",
+        email: "james@gmial.com",
+        status: "active",
+        transaction: "$1000.00",
+        income: "$100"
     }
 ];

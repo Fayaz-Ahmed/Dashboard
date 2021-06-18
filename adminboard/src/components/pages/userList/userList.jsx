@@ -32,9 +32,9 @@ function UserList() {
     }
 
     const columns = [
-        {field: 'id', headerName: 'ID', width: 90},
+        {field: 'id', headerName: 'ID', width: 100},
         {
-            field: 'user', headerName: 'User', width: 200, renderCell: (params) => {
+            field: 'user', headerName: 'User', width: 190, renderCell: (params) => {
                 return (
                     <div className="userListUser">
                         <img className="userListImg" src={params.row.avatar} alt=""/>
@@ -50,8 +50,8 @@ function UserList() {
             width: 170,
         },
         {
-            field: 'transaction',
-            headerName: 'Transaction',
+            field: 'income',
+            headerName: 'Income',
             width: 170,
         },
         {

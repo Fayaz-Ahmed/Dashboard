@@ -8,9 +8,9 @@ function WidgetSmall() {
             <span className="widgetSmallTitle">New Join Customers</span>
             <ul className="widgetSmallList">
                 <li className="widgetSmallListItem">
-                    <img src="../assets/images/image.jpg" alt="" className="widgetSmallImg"/>
+                    <img src="../assets/images/hello.svg" alt="" className="widgetSmallImg"/>
                     <div className="widgetSmallCus">
-                        <span className="widgetSmallUsername">Fayaz Ahmed</span>
+                        <span className="widgetSmallUsername">James Folk</span>
                         <span className="widgetSmallUserJob">Software Engineer</span>
                     </div>
                     <button className="widgetSmallButton">
@@ -19,9 +19,9 @@ function WidgetSmall() {
                     </button>
                 </li>
                 <li className="widgetSmallListItem">
-                    <img src="../assets/images/image.jpg" alt="" className="widgetSmallImg"/>
+                    <img src="../assets/images/hello.svg" alt="" className="widgetSmallImg"/>
                     <div className="widgetSmallCus">
-                        <span className="widgetSmallUsername">Fayaz Ahmed</span>
+                        <span className="widgetSmallUsername">Marry James </span>
                         <span className="widgetSmallUserJob">Software Engineer</span>
                     </div>
                     <button className="widgetSmallButton">

@@ -4,14 +4,14 @@
 }
 
 .card-stu {
-    margin: 25px 100px 200px 100px;
+    margin: 20px 60px 200px 100px;
 }
 
 .newUserTitle {
     align-items: center;
     text-decoration: none;
     width: 100%;
-    background-color: rgb(19, 144, 182);
+    background-color: rgb(15, 7, 85);
     padding: 10px 5px 10px 5px;
     color: rgb(240, 240, 240);
     padding: 10px;
@@ -64,7 +64,7 @@
 .newUserButton {
     width: 200px;
     border: none;
-    background-color: rgb(19, 144, 182);
+    background-color: rgb(15, 7, 85);
     color: white;
     padding: 7px 10px;
     font-weight: 600;
