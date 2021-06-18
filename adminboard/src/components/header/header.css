@@ -1,7 +1,8 @@
 .header {
     width: 100%;
     height: 80px;
-    background: radial-gradient(blanchedalmond, palevioletred);
+    /*background: radial-gradient(blanchedalmond, #c211a5);*/
+    background: #4d20ee;
     position: sticky;
     top: 0px;
     z-index: 999;
@@ -15,11 +16,6 @@
     justify-content: space-between;
 }
 
-/*.logo{*/
-/*    font-size: 40px;*/
-/*    font-weight: bold;*/
-/*    color: darkblue;*/
-/*}*/
 #logo a {
     float: left;
     font-size: .8em;
@@ -44,7 +40,8 @@
     display: block;
     font-size: 0.5em;
     margin: 0;
-    color: #5b7a9a;
+    /*color: #5b7a9a;*/
+    color: black;
     letter-spacing: 4px;
     font-weight: 600;
     text-shadow: 3px 1px 3px rgba(78, 73, 73, 0.21);

@@ -1,0 +1,75 @@
+.newUser {
+    flex: 4;
+    margin-left: 20px;
+}
+
+.card-stu {
+    margin: 25px 100px 200px 100px;
+}
+
+.newUserTitle {
+    align-items: center;
+    text-decoration: none;
+    width: 100%;
+    background-color: rgb(19, 144, 182);
+    padding: 10px 5px 10px 5px;
+    color: rgb(240, 240, 240);
+    padding: 10px;
+    padding-left: 60px;
+}
+
+.newUserForm {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 20px;
+}
+
+.newUserItem {
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+    margin-right: 20px;
+}
+
+.newUserItem > label {
+    margin-bottom: 10px;
+    font-size: 14px;
+    font-weight: 600;
+    color: rgb(151, 150, 150);
+}
+
+.newUserItem > input {
+    height: 20px;
+    padding: 10px;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+
+.newUserGender > input {
+    margin-top: 15px;
+}
+
+.newUserGender > label {
+    margin: 10px;
+    font-size: 18px;
+    color: #555;
+}
+
+.newUserSelect {
+    height: 40px;
+    border-radius: 5px;
+}
+
+.newUserButton {
+    width: 200px;
+    border: none;
+    background-color: rgb(19, 144, 182);
+    color: white;
+    padding: 7px 10px;
+    font-weight: 600;
+    border-radius: 10px;
+    font-size: 20px;
+    margin-top: 50px;
+    cursor: pointer;
+}
